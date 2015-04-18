@@ -5,5 +5,5 @@ require "bundler"
 Bundler.require
 
 # Load app
-require "mary_jane_documentation"
-run MaryJaneDocumentation
+require "swagger_docs"
+run SwaggerDocs
